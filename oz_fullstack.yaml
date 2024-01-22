@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 team: oz_fullstack
 
 leader: 성훈
@@ -7,3 +8,15 @@ member:
   - 다경
   - 정훈
   - 영철
+=======
+team: oz_fullstack
+
+leader: 성훈
+
+coach: 민혁
+
+member:
+  - 남욱
+  - 다경
+  - 정훈
+>>>>>>> add-coach
